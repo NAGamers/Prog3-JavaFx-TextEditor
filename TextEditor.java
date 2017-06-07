@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Smady91 on 03.05.2017.
+ * Created by Smady91 on 07.06.2017.
  */
 public class TextEditor extends Application{
     public int i = 0;
